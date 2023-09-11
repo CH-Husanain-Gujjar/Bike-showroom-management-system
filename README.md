@@ -1,5 +1,5 @@
 # Bike-showroom-management-system
-#Functional Requirements
+#Project Requirements
 1.	User Registration and Authentication: 
 •	Users can create accounts with unique usernames and passwords. 
 •	Users can log in securely using their credentials.
